@@ -1,0 +1,10 @@
+/.idea
+/.lein-*
+/.nrepl-port
+/checkouts
+/classes
+/lib
+/target
+*.class
+*.iml
+*.jar
